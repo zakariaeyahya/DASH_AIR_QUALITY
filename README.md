@@ -33,8 +33,7 @@ Follow these steps to get the project up and running on your local machine.
 2. Explore the different tabs to visualize air quality data for Indian cities.
 3. Download raw data for further analysis.
 
-## Contributing
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+ 
 
 ## License
 This project is licensed under the (https://github.com/zakariaeyahya/DASH_AIR_QUALITY/blob/main/LICENSE)https://github.com/zakariaeyahya/DASH_AIR_QUALITY/blob/main/LICENSE](LICENSE).

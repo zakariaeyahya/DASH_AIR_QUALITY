@@ -17,8 +17,7 @@ Welcome to our air quality dashboard project! This README provides an overview o
 - **Pollutant Trends:** Analyze trends and correlation matrices for various pollutants.
 - **Raw Data Access:** Access the raw data used for the project.
 
-## Screenshots
-Include screenshots of your Shiny dashboard here. You can upload images to your GitHub repository and then link to them in this section.
+
 
 ### Map Distribution
 ![Map Distribution](url_to_map_screenshot.png)

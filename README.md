@@ -4,15 +4,15 @@
   </a>
 </div>
 
-  <h1 style="display: inline-block;">Air Quality Dashboard for Indian Cities</h1>
-  <p>Discover air quality trends and insights across various Indian cities</p>
-  <div>
-    <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY" target="_blank">Repository</a> 🌍
-    <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY/blob/main/Air_Quality.csv" target="_blank">Data Source</a> 📊
-    <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY/issues" target="_blank">Request Feature</a>
-  </div>
+<h1>Air Quality Dashboard for Indian Cities</h1>
+<p>Discover air quality trends and insights across various Indian cities</p>
+
+<div>
+  <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY" target="_blank">Repository</a> 🌍
+  <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY/blob/main/Air_Quality.csv" target="_blank">Data Source</a> 📊
+  <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY/issues" target="_blank">Request Feature</a>
 </div>
-<br>
+
 <div align="center">
   <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY">
     <img src="https://img.shields.io/github/stars/zakariaeyahya/DASH_AIR_QUALITY?color=blue&style=social"/>

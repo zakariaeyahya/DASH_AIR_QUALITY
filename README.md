@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY">
-    <img src="https://img.shields.io/github/stars/zakariaeyahya/DASH_AIR_QUALITY?color=blue&style=social"/>
+    <img src="https://img.shields.io/github/stars/zakariaeyahya/DASH_AIR_QUALITY?color=blue&style=social" alt="GitHub stars"/>
   </a>
 </div>
 <hr>
@@ -74,3 +74,16 @@ Follow these steps to set up the project locally.
 1. Clone the repository:
    ```bash
    git clone https://github.com/zakariaeyahya/DASH_AIR_QUALITY.git
+2. Navigate into the project directory:
+cd DASH_AIR_QUALITY
+3. Install the required R packages:
+install.packages("shiny")
+4. Run the Shiny app:
+shiny::runApp()
+### Usage
+Open the app in your browser and explore the interactive visualizations of air quality data.
+
+<a name="license"></a>
+
+### 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.

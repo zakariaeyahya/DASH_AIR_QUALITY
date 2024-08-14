@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY">
-    <img src="![Uploading FBBeNusrg2d4SU_7pTi_y_55519e25190d484ca4950dfc82e0856e.jpg…]()" alt="Banner" width="720">
+    <img src="![Uploading FBBeNusrg2d4SU_7pTi_y_55519e25190d484ca4950dfc82e0856e.jpg…]()" width="720">
   </a>
 </div>
 
@@ -54,6 +54,7 @@ This interactive dashboard, built with R Shiny, provides a comprehensive visuali
 
 ### Pollutant Trends
 ![Pollutant Trends](url_to_pollutant_trends_screenshot.png)
+
 ![image](https://github.com/zakariaeyahya/DASH_AIR_QUALITY/assets/155691167/311bec8c-764a-4f15-a0e3-7ed87037ab47)
 
 <a name="data-sources"></a>
@@ -72,14 +73,17 @@ Follow these steps to set up the project locally.
 
 ### Installation
 1. Clone the repository:
-   ```bash
    git clone https://github.com/zakariaeyahya/DASH_AIR_QUALITY.git
+
 2. Navigate into the project directory:
-cd DASH_AIR_QUALITY
+   cd DASH_AIR_QUALITY
+
 3. Install the required R packages:
-install.packages("shiny")
+   R -e "install.packages('shiny')"
+
 4. Run the Shiny app:
-shiny::runApp()
+   R -e "shiny::runApp()"
+
 ### Usage
 Open the app in your browser and explore the interactive visualizations of air quality data.
 

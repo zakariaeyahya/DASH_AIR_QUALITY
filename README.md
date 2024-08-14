@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY">
-    <img src="![FBBeNusrg2d4SU_7pTi_y_55519e25190d484ca4950dfc82e0856e](https://github.com/user-attachments/assets/25ac83a7-d8eb-4d4a-b3ad-77c191dab8f4)
-" alt="Banner" width="720">
+    <img src="https://github.com/user-attachments/assets/25ac83a7-d8eb-4d4a-b3ad-77c191dab8f4/FBBeNusrg2d4SU_7pTi_y_55519e25190d484ca4950dfc82e0856e" alt="Banner" width="720">
   </a>
+</div>
+
   <h1 style="display: inline-block;">Air Quality Dashboard for Indian Cities</h1>
   <p>Discover air quality trends and insights across various Indian cities</p>
   <div>

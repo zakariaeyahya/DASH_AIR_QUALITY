@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://github.com/zakariaeyahya/DASH_AIR_QUALITY">
-    <img src="![FBBeNusrg2d4SU_7pTi_y_55519e25190d484ca4950dfc82e0856e](https://github.com/user-attachments/assets/9148b0f1-20dc-47ac-a036-3e4ddcefaba4)" alt="Banner du Projet" width="720">
+    <img src="https://github.com/user-attachments/assets/9148b0f1-20dc-47ac-a036-3e4ddcefaba4" alt="Banner du Projet" width="720">
   </a>
 </div>
+
 
 
 <h1>Air Quality Dashboard for Indian Cities</h1>
